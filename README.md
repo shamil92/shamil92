@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamil92&label=Profile%20views&color=0e75b6&style=flat" alt="shamil92" /> </p>
 
-- 🔭 I’m currently working on [CronMarket](https://cronmarket.ru/)
+- 🔭 I’m currently working on [CronMarket IOS App](https://cronmarket.ru/)
 
 - 🌱 I’m currently learning **SwiftUI**
 
