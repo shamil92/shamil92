@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.cn/injobs/in/shamil-kammaev-7687b6bb**
 
-- 📄 Know about my experiences [https://hh.ru/resume/2080f02bff07aa39440039ed1f31575744726b](https://.hh.ru/resume/2080f02bff07aa39440039ed1f31575744726b)
+- 📄 Know about my experiences [https://hh.ru/resume/2080f02bff07aa39440039ed1f31575744726b](https://hh.ru/resume/2080f02bff07aa39440039ed1f31575744726b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
