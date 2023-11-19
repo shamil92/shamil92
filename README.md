@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamil92&label=Profile%20views&color=0e75b6&style=flat" alt="shamil92" /> </p>
 
-- 🔭 I’m currently working on Rubetek
 
 - 🌱 I’m currently learning **SwiftUI**
 
