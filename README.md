@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamil</h1>
-<h3 align="center">IOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamil92&label=Profile%20views&color=0e75b6&style=flat" alt="shamil92" /> </p>
 
 
-- 🌱 I’m currently learning **SwiftUI**
 
 - 📫 How to reach me **https://www.linkedin.cn/injobs/in/shamil-kammaev-7687b6bb**
 
-- 📄 Know about my experiences [https://hh.ru/resume/2080f02bff07aa39440039ed1f31575744726b](https://hh.ru/resume/2080f02bff07aa39440039ed1f31575744726b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
