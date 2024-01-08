@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamil</h1>
-<h3 align="center">IOS Developer from Moscow</h3>
+<h3 align="center">IOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamil92&label=Profile%20views&color=0e75b6&style=flat" alt="shamil92" /> </p>
 
